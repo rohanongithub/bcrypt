@@ -7,6 +7,19 @@
 
 A simple Node.js web application that allows users to register and log in securely. After logging in, users can view a secret message. Passwords are securely hashed using bcrypt and stored in a PostgreSQL database.
 
+#Preview
+##Home
+![home](https://github.com/user-attachments/assets/f2aeba54-aaa3-4c54-96a2-67b4890af6b4)
+##Registering Demo
+![register](https://github.com/user-attachments/assets/d3a227e7-c6aa-4489-8829-ee82e5ec2412)
+##PDAdmin Database preview after adding
+> **Notice the hashed password**
+<img width="1440" alt="pgadmin" src="https://github.com/user-attachments/assets/2c6adc2c-8176-4e67-9dcd-2a73fec948a0" />
+##Login Try
+![login](https://github.com/user-attachments/assets/4774df7e-53ba-4299-9934-7c82689149fc)
+##Secret Displayed
+![mainscreen](https://github.com/user-attachments/assets/acf55880-46f1-4f2b-a331-838e01300af1)
+
 ## Features
 - User registration with email and password
 - Secure password hashing with bcrypt
